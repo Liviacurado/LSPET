@@ -51,7 +51,14 @@ Certifique-se de ter as seguintes ferramentas instaladas:
     mvn spring-boot:run
     ```
 
-4. A aplicação será iniciada na porta  **9090**. Acesse a aplicação através de `http://localhost:9090`.
+4. A aplicação do back-end será iniciada na porta  **9090**. Acesse a aplicação através de :
+   
+    http://localhost:9090
+   
+6. O front-end será iniciado na porta **4300**. Acesse através de:
+
+    http://localhost:4300
+   
 
 ## Endpoints
 
